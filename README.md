@@ -1,6 +1,6 @@
 # Tests
 ## About me ##
-Hi 👋 , I'm Justyna!  I am passionate about good software quality and user experience of software products. Strong sides are: reliability, hard work adn commitment, analytical approach, motivation for constant development and willingness to never stop learning new things. I got hooked on the software testing bugs.
+Hi 👋 , I'm Justyna!  I am passionate about good software quality and user experience of software products. My strong sides are: reliability, hard work adn commitment, analytical approach, motivation for constant development and willingness to never stop learning new things. I got hooked on the software testing bugs.
 My goal is to develop my technical skills. 
 ## Tech stack 🛠  ##
 <ul>

@@ -11,6 +11,7 @@ Hi 👋 , I'm Justyna!  I am passionate about good software quality and user exp
   <li>Postman</li>
   <li>IBM Cloud basic</li>
   <li>Chrome DevTools</li>
+  <li>Docker- basic</li>
   <li>Jenkins</li>
   <li>Asana</li>
   <li>ProjectLibre</li>

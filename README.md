@@ -25,8 +25,8 @@ Hi 👋 , I'm Justyna!  I am passionate about good software quality and user exp
   <li>English B2/C1</li>
 </ul>
 
-## Examples of tests ##
-## Exploratory tests ##
+## Some examples and templates: ##
+### Exploratory tests ###
 Exploratory session sheet- 👉 [template](https://docs.google.com/document/d/1rR3XdKGmmQt_UWOFeWTrE1pk9tgXob108GbI7-Pj5RM/edit?usp=sharing)
 
 Exploratory test example:
@@ -34,9 +34,9 @@ Exploratory test example:
 * session 2
 * session 3
 
-## Tests Cases ##
-## Bug Reports ##
-## Test Plan ##
+### Tests Cases ###
+### Bug Reports ###
+### Test Plan ###
 * Test Plan-  👉 [template](https://docs.google.com/document/d/1IqjXegdMVtkRsn1Tp8e2jeyZczV36FCRd7hWUZlNYvM/edit?usp=sharing)
 * Test Plan -  👉 [example](https://docs.google.com/document/d/1ByBFYxLVfA4oWVwpeqKb6w-_e4_IVeIGReIbiP7btvk/edit?usp=sharing)
 * Scenario, test case and use case - 👉[sample](https://docs.google.com/document/d/1OS9aqVDYt22SH0BcwDSVzoXi61w0kMqe05n42uncDZQ/edit?usp=sharing) 

@@ -27,11 +27,14 @@ Hi 👋 , I'm Justyna!  I am passionate about good software quality and user exp
 
 ## Examples of tests ##
 ## Exploratory tests ##
+Exploratory session sheet- 👉 [template](https://docs.google.com/document/d/1rR3XdKGmmQt_UWOFeWTrE1pk9tgXob108GbI7-Pj5RM/edit?usp=sharing)
+
+Exploratory test example:
+
 ## Tests Cases ##
 ## Bug Reports ##
 ## Test Plan ##
-Test Plan-  👉 [template](https://docs.google.com/document/d/1IqjXegdMVtkRsn1Tp8e2jeyZczV36FCRd7hWUZlNYvM/edit?usp=sharing)
+* Test Plan-  👉 [template](https://docs.google.com/document/d/1IqjXegdMVtkRsn1Tp8e2jeyZczV36FCRd7hWUZlNYvM/edit?usp=sharing)
+* Test Plan -  👉 [example](https://docs.google.com/document/d/1ByBFYxLVfA4oWVwpeqKb6w-_e4_IVeIGReIbiP7btvk/edit?usp=sharing)
+* Scenario, test case and use case - 👉[sample](https://docs.google.com/document/d/1OS9aqVDYt22SH0BcwDSVzoXi61w0kMqe05n42uncDZQ/edit?usp=sharing) 
 
-Test Plan -  👉 [example](https://docs.google.com/document/d/1ByBFYxLVfA4oWVwpeqKb6w-_e4_IVeIGReIbiP7btvk/edit?usp=sharing)
-
-Scenario, test case and use case - 👉[ template](https://docs.google.com/document/d/1OS9aqVDYt22SH0BcwDSVzoXi61w0kMqe05n42uncDZQ/edit?usp=sharing)

@@ -33,3 +33,5 @@ Hi 👋 , I'm Justyna!  I am passionate about good software quality and user exp
 Test Plan-  👉 [template](https://docs.google.com/document/d/1IqjXegdMVtkRsn1Tp8e2jeyZczV36FCRd7hWUZlNYvM/edit?usp=sharing)
 
 Test Plan -  👉 [example](https://docs.google.com/document/d/1ByBFYxLVfA4oWVwpeqKb6w-_e4_IVeIGReIbiP7btvk/edit?usp=sharing)
+
+Scenario, test case and use case - 👉[ template](https://docs.google.com/document/d/1OS9aqVDYt22SH0BcwDSVzoXi61w0kMqe05n42uncDZQ/edit?usp=sharing)

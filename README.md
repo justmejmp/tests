@@ -30,6 +30,9 @@ Hi 👋 , I'm Justyna!  I am passionate about good software quality and user exp
 Exploratory session sheet- 👉 [template](https://docs.google.com/document/d/1rR3XdKGmmQt_UWOFeWTrE1pk9tgXob108GbI7-Pj5RM/edit?usp=sharing)
 
 Exploratory test example:
+* [session 1](https://docs.google.com/document/d/1i5aWTIVUoyD_4Wz2eZU59ijUp83uZxciR00gc_iLzps/edit?usp=sharing)
+* session 2
+* session 3
 
 ## Tests Cases ##
 ## Bug Reports ##

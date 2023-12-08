@@ -36,8 +36,10 @@ Exploratory test example:
 
 ### Tests Cases ###
 ### Bug Reports ###
+* Summary test rerport- 👉 [template](https://docs.google.com/document/d/1gobjR7nrNGogSWibrMPg42UHh0fmsbKTTqOhsuEgh3k/edit?usp=sharing)
+
 ### Test Plan ###
-* Test Plan-  👉 [template](https://docs.google.com/document/d/1IqjXegdMVtkRsn1Tp8e2jeyZczV36FCRd7hWUZlNYvM/edit?usp=sharing)
+* Test Plan -  👉 [template](https://docs.google.com/document/d/1IqjXegdMVtkRsn1Tp8e2jeyZczV36FCRd7hWUZlNYvM/edit?usp=sharing)
 * Test Plan -  👉 [example](https://docs.google.com/document/d/1ByBFYxLVfA4oWVwpeqKb6w-_e4_IVeIGReIbiP7btvk/edit?usp=sharing)
 * Scenario, test case and use case - 👉[sample](https://docs.google.com/document/d/1OS9aqVDYt22SH0BcwDSVzoXi61w0kMqe05n42uncDZQ/edit?usp=sharing) 
 
